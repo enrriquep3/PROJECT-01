@@ -1,0 +1,34 @@
+.container{
+
+    background-color: rgb(48, 70, 90);
+    color: black;
+    }
+    
+    .jumbotron{
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ciudad_de_Merida%2C_Venezuela.jpg/1000px-Ciudad_de_Merida%2C_Venezuela.jpg");
+        
+    }
+    
+    label{
+        margin-left: 50%;
+        color: royalblue;
+    
+    }
+    .card-header{
+        text-align: center;
+    }
+    .row,
+    .card-header{
+        color: royalblue;
+        
+    }
+    
+    #show,
+    #photo,
+    .container{
+        text-align: center;
+        align-items: center;
+        align-content: center;
+        color: black
+        
+    }
