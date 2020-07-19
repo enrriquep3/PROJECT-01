@@ -32,3 +32,6 @@
         color: black
         
     }
+    #photo{
+        border: solid black 2px;
+    }
