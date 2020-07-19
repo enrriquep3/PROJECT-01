@@ -71,12 +71,7 @@ $(document).ready(function () {
       data.main.temp +
       "F" +
       "</h3>" +
-      "<h3><strong>Pressure</strong>: " +
-      data.main.pressure +
-      "</h3>" +
-      "<h3><strong>Time Zone</strong>: " +
-      data.timezone +
-      "</h3>" +
+     
       "<h3><strong>Humidity</strong>: " +
       data.main.humidity +
       "%" +
