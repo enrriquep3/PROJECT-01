@@ -1,6 +1,6 @@
 .container{
 
-    background-color: rgb(48, 70, 90);
+    background-color: rgb(104, 180, 250);
     color: black;
     }
     
@@ -10,7 +10,7 @@
     }
     
     label{
-        margin-left: 50%;
+        align-content: center;
         color: royalblue;
     
     }
