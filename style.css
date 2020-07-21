@@ -2,6 +2,7 @@
 
     background-color: rgb(104, 180, 250);
     color: black;
+    border: solid 4px black;
     }
     
     .jumbotron{
@@ -30,6 +31,6 @@
         align-items: center;
         align-content: center;
         color: black
+
         
     }
-    
