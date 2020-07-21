@@ -1,80 +1,83 @@
-
-  
 <!DOCTYPE html>
 
 <html lang="en-us">
-
-<head>
-
-  <meta charset="UTF-8">
-  <title>TIME AND WHEATER</title>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Find Any City Live Weather and a City Portrait</title>
 
     <!-- CSS Reset Sheet -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css"
+    />
 
-  <!-- Our own CSS Sheet -->
-  <link rel="stylesheet" href="style.css">
+    <!-- Our own CSS Sheet -->
+    <link rel="stylesheet" href="style.css" />
 
-  <!-- jQuery -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-  <!-- Bootstrap CDN-->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <!-- Bootstrap CDN-->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 
-  <!-- Firebase Reference -->
-  <script src="https://www.gstatic.com/firebasejs/4.12.0/firebase.js"></script>
+    <!-- Firebase Reference -->
+    <script src="https://www.gstatic.com/firebasejs/4.12.0/firebase.js"></script>
+  </head>
 
-</head>
+  <body>
+    <div class="container">
+      <br />
 
-<body>
+      <!-- Jumbotron Title -->
+      <div class="jumbotron">
+        <h1 class="text-center">
+          Welcome to Find Any City Live Weather and a Portrait
+        </h1>
+        <h3 class="text-center"></h3>
+      </div>
 
-  <div class="container">
-
-    <br>
-
-    <!-- Jumbotron Title -->
-    <div class="jumbotron">
-      <h1 class="text-center">Welcome to Search City Time and Weather</h1>
-       <h3 class="text-center"> Any City on The Planet </h3>
-    </div>
-
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="card">
-          <div class="card-body">
-            <h3 class="text-center">
-              <strong>Enter a city and discover the time and wheater</strong></h3>
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="card">
+            <div class="card-body">
+              <h3 class="text-center">
+                <strong
+                  >Enter a city and discover live weather and a city
+                  portrait</strong
+                >
+              </h3>
               <span id="error"></span>
               <div class="form-group">
-               <h2> <label for="search">City:</label> </h2>
-                <input type="text" class="form-control" id="City">
-                <button id="submitWeather" class="btn btn-primary">Search City</button>
+                <h2><label for="search">City:</label></h2>
+                <input type="text" class="form-control" id="City" />
+                <button id="submitWeather" class="btn btn-primary">
+                  Search City
+                </button>
               </div>
-
+            </div>
           </div>
         </div>
       </div>
+
+      <h3 class="show">
+        <span id="show"></span>
+      </h3>
+      <h3 class="photo">
+        <span id="photo"></span>
+      </h3>
     </div>
 
-    <!-- Current Product -->
-  <div class="container">
-                <h3 class="show">
-                  <span id="show"></span>
-                </h3>
-                <h3 class="photo">
-                  <span id="photo"></span>
-                </h3>
-            </div>
-  </div>
-    
+    <!-- JavaScript -->
+    <script src="logic.js"></script>
 
- 
-
-  <!-- JavaScript -->
-  <script src="logic.js"></script>
-
-</body>
-
+    <footer>
+      <div class="container">
+        <p>Enrrique Pimentel 2020© all rights reserved.</p>
+      </div>
+    </footer>
+  </body>
 </html>
-

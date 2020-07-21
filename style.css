@@ -2,6 +2,7 @@
 
     background-color: rgb(104, 180, 250);
     color: black;
+    border: solid 4px black;
     }
     
     .jumbotron{
@@ -33,6 +34,4 @@
 
         
     }
-    #photo{
-        border: solid black 2px;
-    }
+   
