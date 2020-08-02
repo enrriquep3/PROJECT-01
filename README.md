@@ -19,7 +19,7 @@ Jquery - Used to generate response from API's<p>
 See also the list of contributors who participated in this project.<p>
 
 <h1>License</h1>
-<p>This project is licensed under the MIT License - see the LICENSE.md file for details<p>
+<p>This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details<p>
 
 <h1>Acknowledgments</h1>
 <p>This app was created to be able to see the actual city where we search the weather and compare with different cities.<p>
