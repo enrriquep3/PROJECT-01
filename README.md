@@ -7,7 +7,9 @@
 <h1>Deployment</h1>
 <p>Get online to https://enrriquep3.github.io/PROJECT-01/ and type a name of a city, for example Tokyo, click on the button search and the app will display the live weather of Tokyo and a poltrait of the city. <p>
   
-  ![](images/you-picture.png)
+  ![](images/project1.jpg)
+  
+  ![](images/project12.jpg)
   
 
 <h1>Built With</h1>
@@ -25,5 +27,3 @@ See also the list of contributors who participated in this project.<p>
 <h1>License</h1>
 <p>This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details<p>
 
-<h1>Acknowledgments</h1>
-<p>This app was created to be able to see the actual city where we search the weather and compare with different cities.<p>
