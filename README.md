@@ -7,6 +7,8 @@
 <h1>Deployment</h1>
 <p>Get online to https://enrriquep3.github.io/PROJECT-01/ and type a name of a city, for example Tokyo, click on the button search and the app will display the live weather of Tokyo and a poltrait of the city. <p>
   
+  ![](images/you-picture.png)
+  
 
 <h1>Built With</h1>
 <p>Bootstrap - The css framework and mobile response used<br>
