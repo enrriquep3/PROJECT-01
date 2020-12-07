@@ -5,7 +5,7 @@
 <h2>With this app you can find any city live weather and a great poltrait of the city just by typing the name of the city and clicking search.</h2>
 
 <h1>Deployment</h1>
-<p>Get online to https://enrriquep3.github.io/PROJECT-01/ and type a name of a city, for example Tokyo, click on the button search and the app will display the live weather of Tokyo and a poltrait of the city. <p>
+<p>Go online to https://enrriquep3.github.io/PROJECT-01/ and type a name of a city, for example Tokyo, click on the button search and the app will display the live weather of Tokyo and a poltrait of the city. <p>
   
   ![](images/project1.jpg)
   
