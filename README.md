@@ -20,9 +20,9 @@ Jquery - Used to generate response from API's<p>
 
 
 
-<h1>Authors</h1>
+<h1>Author</h1>
 <p>Enrrique Pimentel -
-See also the list of contributors who participated in this project.<p>
+
 
 <h1>License</h1>
 <p>This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details<p>
